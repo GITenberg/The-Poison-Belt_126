@@ -1,5 +1,8 @@
 _repo: The-Poison-Belt_126
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Doyle, Arthur Conan
@@ -19,6 +22,8 @@ description: "The Poison Belt was the second story, a novella, that Sir Arthur C
   \ set largely outdoors in the wilds of South America. This would be the last story\
   \ written about Challenger until the 1920s, by which time Doyle's spiritualist beliefs\
   \ had begun to influence his writing.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/126#The-Poison-Belt
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '1994-04-01'
 gutenberg_type: Text
